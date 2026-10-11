@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SharedPreferencesKotlin</string>
+    <string name="titulo_agenda">Agenda de Teléfonos</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_borrar">Borrar listado</string>
+    <string name="titulo_listado">Teléfonos guardados (ordenados por nombre):</string>
+    <string name="sin_telefonos">No hay teléfonos guardados en la agenda.</string>
+    <string name="dialogo_titulo">Confirmación</string>
+    <string name="dialogo_mensaje">¿Está seguro de que desea borrar el listado completo de teléfonos?</string>
+    <string name="dialogo_si">Sí, borrar</string>
+    <string name="dialogo_no">Cancelar</string>
+    <string name="toast_guardado">Contacto guardado correctamente</string>
+    <string name="toast_campos_vacios">Por favor, introduce nombre y teléfono</string>
+    <string name="toast_borrado">Se han borrado todos los contactos</string>
+</resources>
